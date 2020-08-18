@@ -1,1 +1,1 @@
-"# lecture0" 
+"# arcgis js api test" 
